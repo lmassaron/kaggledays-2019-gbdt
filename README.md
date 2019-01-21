@@ -1,8 +1,10 @@
 # kaggledays-2019-gbdt
 ![Kaggle Days Paris](https://kaggledays.com/wp-content/uploads/sites/2/2018/11/46508555_1939772529664297_1579296553191866368_n-1024x536.png)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20%20GBDT%20workshop.ipynb)
+
 ## Kaggle Days Paris
-### Competitive GBDT specification and optimization workshop
+### Competitive GBDT Specification and Optimization Workshop
 
 ## Instructors
 * Luca Massaron [@lmassaron](https://www.linkedin.com/in/lmassaron/) - Data Scientist / Author / Google Developer Expert in Machine Learning 
@@ -10,22 +12,28 @@
 
 ## About the workshop
 
-Gradient Boosting Decision Trees (GBDT) are presently the state of the art for building predictors for tabular data. However, they seldom perform the best out-of-the-box (using default hyper-parameters). 
+Gradient Boosting Decision Trees (GBDT) presently represent the state of the art for building predictors for flat table data. However, they seldom perform the best out-of-the-box (using default values) because of the many hyper-parameters to tune. Especially in the most recent GBDT implementations, such as LightGBM, the over-sophistication of hyper-parameters renders finding the optimal settings by hand or simple grid search difficult because of high combinatorial complexity and long running times for experiments. 
 
-The over-sophistication of GBDT hyper-parameters renders finding the optimal settings difficult because of high combinatorial complexity and long running times for experiments. 
+[Random Optimization](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf) (BERGSTRA, James; BENGIO, Yoshua. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 2012, 13.Feb: 281-305.) and [Bayesian Optimization](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf) (SNOEK, Jasper; LAROCHELLE, Hugo; ADAMS, Ryan P. Practical bayesian optimization of machine learning algorithms. In: Advances in neural information processing systems. 2012. p. 2951-2959) are often the answer you'll find from experts.
 
-[Random Optimization](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf) (BERGSTRA, James; BENGIO, Yoshua. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 2012, 13.Feb: 281-305.) and [Bayesian Optimization](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf) (SNOEK, Jasper; LAROCHELLE, Hugo; ADAMS, Ryan P. Practical bayesian optimization of machine learning algorithms. In: Advances in neural information processing systems. 2012. p. 2951-2959) are the answer.
-
-In this workshop we show you how to use different optimization approaches based on [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize), a library built on top of NumPy, SciPy and Scikit-Learn, and presenting an easy and fast approach to set them ready and usable.
+In this workshop we demonstrate how to use different optimization approaches based on [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize), a library built on top of NumPy, SciPy and Scikit-Learn, and we present an easy and fast approach to set them ready and usable.
 
 ## Prerequisites
 
-You should be aware of the role of hyper-parameter optimization in machine learning and why it is important to tune hyper-parameters.  
+You should be aware of the role and importance of hyper-parameter optimization in machine learning.  
 
 ## Obtaining the Tutorial Material
-In order to make the workshop easily accessible, we suggest accessing it on the cloud:
+In order to make the workshop easily accessible, we are offering cloud access:
 * Using [Google Colab](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt)
 * Using [Kaggle Kernels]()
+
+We also have a brief exercise that can be found at:
+* Using [Google Colab](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20%20GBDT%20workshop.ipynb)
+* Using [Kaggle Kernels]()
+
+The solution can be found [here](https://github.com/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20Skopt%20%2B%20CatBoost%20solution.ipynb).
+
+All the materials can be cloned from Github at the [kaggledays-2019-gbdt](https://github.com/lmassaron/kaggledays-2019-gbdt) repository.
 
 ## Local installation notes
 
