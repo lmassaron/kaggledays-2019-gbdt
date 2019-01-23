@@ -24,16 +24,16 @@ You should be aware of the role and importance of hyper-parameter optimization i
 
 ## Obtaining the Tutorial Material
 In order to make the workshop easily accessible, we are offering cloud access:
-* Using [Google Colab](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt)
-* Using [Kaggle Kernels]()
+* Using [Google Colab](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20%20GBDT%20workshop.ipynb) 
+* Using [Kaggle Kernels](https://www.kaggle.com/lucamassaron/kaggle-days-paris-gbdt-workshop)
 
 We also have a brief exercise that can be found at:
-* Using [Google Colab](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20%20GBDT%20workshop.ipynb)
-* Using [Kaggle Kernels]()
+* Using [Google Colab](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20Skopt%20%2B%20CatBoost%20exercise.ipynb)
+* Using [Kaggle Kernels (with solution)](https://www.kaggle.com/lucamassaron/kaggle-days-paris-skopt-catboost-solution)
 
 The solution can be found [here](https://github.com/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20Skopt%20%2B%20CatBoost%20solution.ipynb).
 
-All the materials can be cloned from Github at the [kaggledays-2019-gbdt](https://github.com/lmassaron/kaggledays-2019-gbdt) repository.
+All the materials can be cloned from Github at the [kaggledays-2019-gbdt](https://github.com/lmassaron/kaggledays-2019-gbdt) repository. We also have prepared a stand-alone Windows installation using WinPython (just require us for the link).
 
 ## Local installation notes
 
