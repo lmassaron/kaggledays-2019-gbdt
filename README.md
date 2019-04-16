@@ -1,11 +1,11 @@
 # kaggledays-2019-gbdt
 ![Kaggle Days Paris](https://kaggledays.com/wp-content/uploads/sites/2/2018/11/46508555_1939772529664297_1579296553191866368_n-1024x536.png)
-Original workshop in Paris:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20%20GBDT%20workshop.ipynb)
-First part of workshop (basics of Skopt and GBM):
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/skopt_workshop_part1.ipynb)
-Second part of workshop (LightGBM, XGBoost, CAtBoost, NAS):
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/skopt_workshop_part2.ipynb)
+<P>Original workshop in Paris:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20%20GBDT%20workshop.ipynb)<\P>
+<P>First part of workshop (basics of Skopt and GBM):
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/skopt_workshop_part1.ipynb)<\P>
+<P>Second part of workshop (LightGBM, XGBoost, CAtBoost, NAS):
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/skopt_workshop_part2.ipynb)<\P>
 
 ## Kaggle Days Paris
 ### Competitive GBDT Specification and Optimization Workshop
