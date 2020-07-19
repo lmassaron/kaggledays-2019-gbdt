@@ -1,3 +1,5 @@
+![KaggleDays_Paris](./kaggledaysparis.png)
+
 # kaggledays-2019-gbdt
 
 Original workshop in Paris:
