@@ -6,20 +6,34 @@ Original workshop in Paris:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/Kaggle%20Days%20Paris%20-%20%20GBDT%20workshop.ipynb)
 
-First part of workshop (basics of Skopt and GBM):
+First part of the updated workshop (basics of Skopt and GBM):
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/skopt_workshop_part1.ipynb)
 
-Second part of workshop (LightGBM, XGBoost, CAtBoost, NAS):
+Second part of the updated workshop (LightGBM, XGBoost, CAtBoost, NAS):
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/skopt_workshop_part2.ipynb)
+
+# Video of the workshop on Kaggle Youtube channel
+https://www.youtube.com/watch?v=YQL45hDuP-o
 
 ## Kaggle Days Paris
 ### Competitive GBDT Specification and Optimization Workshop
 
 ## Instructors
 * Luca Massaron [@lmassaron](https://www.linkedin.com/in/lmassaron/) - Data Scientist / Author / Google Developer Expert in Machine Learning 
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/discussion)
+
 * Pietro Marinelli [@pietro-marinelli-0098b427](https://www.linkedin.com/in/pietro-marinelli-0098b427/) - Freelance Data Scientist
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pietromarinelli/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pietromarinelli/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pietromarinelli/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pietromarinelli/discussion)
 
 ## About the workshop
 
