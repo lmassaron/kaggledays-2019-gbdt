@@ -15,7 +15,8 @@ Second part of the updated workshop (LightGBM, XGBoost, CAtBoost, NAS):
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/kaggledays-2019-gbdt/blob/master/skopt_workshop_part2.ipynb)
 
 ## Video of the workshop on Kaggle Youtube channel
-![https://www.youtube.com/watch?v=YQL45hDuP-o](./kaggle_youtube.PNG) https://www.youtube.com/watch?v=YQL45hDuP-o
+![https://www.youtube.com/watch?v=YQL45hDuP-o](./kaggle_youtube.PNG) 
+https://www.youtube.com/watch?v=YQL45hDuP-o
 
 ## Kaggle Days Paris
 ### Competitive GBDT Specification and Optimization Workshop
