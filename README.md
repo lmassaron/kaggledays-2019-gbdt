@@ -16,6 +16,7 @@ Second part of the updated workshop (LightGBM, XGBoost, CAtBoost, NAS):
 
 ## Video of the workshop on Kaggle Youtube channel
 ![https://www.youtube.com/watch?v=YQL45hDuP-o](./kaggle_youtube.PNG) 
+
 https://www.youtube.com/watch?v=YQL45hDuP-o
 
 ## Kaggle Days Paris
