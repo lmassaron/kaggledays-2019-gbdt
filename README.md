@@ -25,17 +25,7 @@ https://www.youtube.com/watch?v=YQL45hDuP-o
 ## Instructors
 * Luca Massaron [@lmassaron](https://www.linkedin.com/in/lmassaron/) - Data Scientist / Author / Google Developer Expert in Machine Learning 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/discussion)
-
 * Pietro Marinelli [@pietro-marinelli-0098b427](https://www.linkedin.com/in/pietro-marinelli-0098b427/) - Freelance Data Scientist
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pietromarinelli/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pietromarinelli/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pietromarinelli/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pietromarinelli/discussion)
 
 ## About the workshop
 
